@@ -1,0 +1,3 @@
+
+Route::get('/env','EnvController@index')->name('env.index');
+Route::put('/env','EnvController@store')->name('env.store');

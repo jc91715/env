@@ -1,0 +1,27 @@
+{
+  "name": "jc91715/env",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jc91715",
+      "email": "370234915@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/config": "~5.0",
+    "illuminate/support": "~5.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Jc91715\\Env\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
