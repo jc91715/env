@@ -22,6 +22,5 @@
     "psr-4": {
       "Jc91715\\Env\\": "src/"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
