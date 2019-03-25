@@ -3,7 +3,7 @@
 ## install
 
 ```
-composer require jc91715/env dev-master
+composer require jc91715/env
 ```
 ## 配置
 
